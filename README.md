@@ -1,16 +1,7 @@
-# h1d023010_tugas6
+Nama       : Ramadhan Fakhtur Rakhman 
+NIM        : H1D023010
 
-A new Flutter project.
 
-## Getting Started
+<img width="500" height="908" alt="image" src="https://github.com/user-attachments/assets/01232d0d-b640-4bf0-9ed9-d6bc0148876a" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="515" height="903" alt="image" src="https://github.com/user-attachments/assets/5bd18c92-3691-499f-b303-06f3b2fa388a" />
