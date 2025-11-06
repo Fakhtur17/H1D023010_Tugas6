@@ -7,10 +7,6 @@ NIM        : H1D023010
 
 <img width="515" height="903" alt="image" src="https://github.com/user-attachments/assets/5bd18c92-3691-499f-b303-06f3b2fa388a" />
 
-Siap 🙌 — berikut versi **penjelasan lengkap dalam bentuk paragraf utuh** (tanpa poin-poin atau tabel), ditulis dengan gaya bahasa formal seperti yang biasa digunakan dalam laporan tugas kuliah.
-Semua isi sudah disesuaikan **dengan codinganmu di proyek NIM_Tugas6** yang memakai constructor-based navigation.
-
----
 
 ## 🧾 **Penjelasan Proses Passing Data dari Form Menuju Tampilan**
 
